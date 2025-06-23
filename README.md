@@ -1,7 +1,3 @@
-Here's a detailed and professional `README.md` file for your **Smart Job Portal** web application project, including project overview, features, technologies used, folder structure, and setup instructions.
-
----
-
 ```markdown
 # 💼 Smart Job Portal - Web Application
 
